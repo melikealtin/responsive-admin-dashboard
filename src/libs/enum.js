@@ -62,19 +62,19 @@ export const resentUpdates = reactive([
     name: "Jolina Angelina",
     product: "Night Lion Tech GSP",
     time: "2",
-    img: "src/assets/avatar1.svg",
+    img: "/assets/avatar1.svg",
   },
   {
     name: "David Wilson",
     product: "Foldable Mini Drone",
     time: "14",
-    img: "src/assets/avatar3.svg",
+    img: "/assets/avatar3.svg",
   },
   {
     name: "Evelyn Scott",
     product: "Ruko F11 Pro Drone",
     time: "21",
-    img: "src/assets/avatar4.svg",
+    img: "/assets/avatar4.svg",
   },
 ]);
 
