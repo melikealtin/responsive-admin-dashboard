@@ -1,5 +1,9 @@
 import { reactive } from "vue";
 
+import resentUpdatesImg1 from "@assets/avatar1.svg";
+import resentUpdatesImg2 from "@assets/avatar3.svg";
+import resentUpdatesImg3 from "@assets/avatar4.svg";
+
 export const cardsData = reactive([
   {
     name: "Total Sales",
@@ -62,19 +66,19 @@ export const resentUpdates = reactive([
     name: "Jolina Angelina",
     product: "Night Lion Tech GSP",
     time: "2",
-    img: "/assets/avatar1.svg",
+    img: resentUpdatesImg1,
   },
   {
     name: "David Wilson",
     product: "Foldable Mini Drone",
     time: "14",
-    img: "/assets/avatar3.svg",
+    img: resentUpdatesImg2,
   },
   {
     name: "Evelyn Scott",
     product: "Ruko F11 Pro Drone",
     time: "21",
-    img: "/assets/avatar4.svg",
+    img: resentUpdatesImg3,
   },
 ]);
 

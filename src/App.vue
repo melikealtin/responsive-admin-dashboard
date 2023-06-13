@@ -39,7 +39,7 @@
             <small class="text-muted">Admin</small>
           </div>
           <div class="profile-photo">
-            <img src="./assets/avatar2.svg" alt="" />
+            <img src="@assets/avatar2.svg" alt="" />
           </div>
         </div>
       </div>
